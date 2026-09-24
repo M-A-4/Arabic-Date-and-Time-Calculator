@@ -226,7 +226,7 @@ const handleCalculate = () => {
         <div class="section-title">
             تاريخ البداية
         </div>
-        <DateFields v-model="dateInput" />
+        <DateFields v-model="dateInput" :system="currentSystem" />
 
         <div class="section-title" style="margin-top:16px">
             وقت البداية

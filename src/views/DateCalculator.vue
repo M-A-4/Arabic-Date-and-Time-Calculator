@@ -225,7 +225,7 @@ const handleCalculate = () => {
         <div class="section-title">
             تاريخ البداية
         </div>
-        <DateFields v-model="dateInput" />
+        <DateFields v-model="dateInput" :system="currentSystem" />
         <div class="hint">{{  hintText  }}</div>
         <div class="section-title" style="margin-top:20px">
             الاتجاه
