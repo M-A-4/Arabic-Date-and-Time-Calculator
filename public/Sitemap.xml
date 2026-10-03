@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
+<urlset xmlns="http://sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://datetimecalcar.netlify.app/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.00</priority>
   </url>
@@ -59,7 +59,7 @@
   
    <url>
     <loc>https://datetimecalcar.netlify.app/questions-and-answers</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>

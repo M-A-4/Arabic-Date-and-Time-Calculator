@@ -4,7 +4,7 @@
     <hr>
       <div style="text-align: center;">
         <RouterLink to="/">
-          عودة إلى الصفحة الرئيسية
+          عودة إلى الصفحة الرئيسية للاطلاع على جميع الأدوات
         </RouterLink>
       </div>
       <div>

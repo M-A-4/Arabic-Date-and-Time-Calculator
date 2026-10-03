@@ -2,13 +2,13 @@
 import {ref, onMounted, onUnmounted} from 'vue'
 
 const shown = ref(false)
-
+/*
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker.register('/sw.js');
    });
 }
-
+*/
 let deferredPrompt = null;
 
 const handleBeforeInstallPrompt = (e) => {
